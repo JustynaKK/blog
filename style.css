@@ -412,6 +412,6 @@ fieldset{
 
 @media (max-width: 400px){
     nav li{
-        padding: 0 10px;
+        padding: 0;
     }
 }
